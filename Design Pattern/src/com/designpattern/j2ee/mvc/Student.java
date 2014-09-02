@@ -1,4 +1,4 @@
-package com.designpattern.creational.mvc;
+package com.designpattern.j2ee.mvc;
 
 public class Student {
 	private String rollNo;
